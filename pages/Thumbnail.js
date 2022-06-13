@@ -8,6 +8,7 @@ export default function Thumbnail({ item }) {
         <div className='p-2 group cursor-pointer transition 
         duration-200 transform ease-in sm:hover:scale-105 hover:z-50'>
             <Image
+                alt='movie banner'
                 layout='responsive'
                 width={1820}
                 height={1080}
