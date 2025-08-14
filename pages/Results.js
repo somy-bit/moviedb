@@ -1,4 +1,4 @@
-import Image from 'next/image'
+
 import Thumbnail from './Thumbnail.js'
 
 function Results({results}){
